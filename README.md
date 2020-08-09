@@ -9,3 +9,6 @@ Because this file loads its accessibility values from the file access.txt, this 
 
 ## Usage
 In order to utilize this program, it is necessary to download this project and Eclipse and to import this project within Eclipse. Afterwards, it is necessary to run this program within Eclipse.
+
+## Images
+![KnightsTourClosedLoop](https://user-images.githubusercontent.com/8474410/89722856-a9ce7d00-d9a3-11ea-99f5-dd4620e5c300.png)
